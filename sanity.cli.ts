@@ -4,5 +4,6 @@ export default defineCliConfig({
   api: {
     projectId: 'jh2ng2jx',
     dataset: 'production'
+
   }
 })

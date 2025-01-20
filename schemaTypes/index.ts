@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import general from './general'
+
+export const schemaTypes = [general]

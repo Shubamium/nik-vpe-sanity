@@ -11,7 +11,7 @@ export default defineConfig({
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
-
+  studioHost: 'vpedigital',
   schema: {
     types: schemaTypes,
   },
