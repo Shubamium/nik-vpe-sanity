@@ -74,6 +74,12 @@ export default defineType({
               type: 'string',
             }),
             defineField({
+              name: 'r',
+              title: 'Title / Role',
+              type: 'string',
+            }),
+
+            defineField({
               name: 'd',
               title: 'Description',
               type: 'text',
